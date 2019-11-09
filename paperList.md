@@ -28,3 +28,15 @@ https://arxiv.org/pdf/1901.03407.pdf
 PNUNet: Anomaly Detection using Positive-and-Negative Noise based on Self-Training Procedure
 https://arxiv.org/pdf/1905.10939v1.pdf
 
+
+
+
+Defective samples simulation through Neural Style Transfer for automatic surface defect segment
+https://arxiv.org/ftp/arxiv/papers/1910/1910.03334.pdf
+	
+Multi-stage domain adversarial style reconstruction for cytopathological image stain normalization
+https://arxiv.org/ftp/arxiv/papers/1909/1909.05184.pdf
+	
+SphereFace: Deep Hypersphere Embedding for Face Recognition
+https://arxiv.org/pdf/1704.08063.pdf
+
